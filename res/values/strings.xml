@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MMGestureDetector</string>
+    <string name="action_settings">Settings</string>
+    <string name="event_hit">
+		EVENT_MOVE_UP = 1;\n
+		EVENT_MOVE_RIGHT_UP = 2;\n
+		EVENT_MOVE_RIGHT = 3;\n
+		EVENT_MOVE_RIGHT_DOWN = 4;\n
+		EVENT_MOVE_DOWN = 5;\n
+		EVENT_MOVE_LEFT_DOWN = 6;\n
+		EVENT_MOVE_LEFT = 7;\n
+		EVENT_MOVE_LEFT_UP = 8;\n
+		EVENT_CLICK = 9;\n
+		EVENT_CLICK_DOUBLE = 10;\n
+		EVENT_CLICK_LONG = 11;\n   
+    </string>
+    
+</resources>
